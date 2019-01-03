@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/static/media/wordpress.6ded14c8.png"
   },
   {
-    "revision": "a6484ee18d99a521be3b411f729acc35",
+    "revision": "7822074f00f5e9a1e30bee0221d8b29a",
     "url": "/index.html"
   }
 ];
