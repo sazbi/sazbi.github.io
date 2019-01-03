@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/static/media/angular.2345a5c4.png"
   },
   {
-    "revision": "15c247a47f55a8598880",
-    "url": "/static/css/main.da48f2c0.chunk.css"
+    "revision": "425edf702625c1e6e028",
+    "url": "/static/css/main.a8e23dde.chunk.css"
   },
   {
-    "revision": "d81c1fcc0302907a15db",
-    "url": "/static/js/1.d81c1fcc.chunk.js"
+    "revision": "b27cd7e0bb9540a7792f",
+    "url": "/static/js/1.b27cd7e0.chunk.js"
   },
   {
     "revision": "229c360febb4351a89df",
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/static/media/vue.8b8800e8.png"
   },
   {
-    "revision": "15c247a47f55a8598880",
-    "url": "/static/js/main.15c247a4.chunk.js"
+    "revision": "425edf702625c1e6e028",
+    "url": "/static/js/main.425edf70.chunk.js"
   },
   {
     "revision": "17d706e8ae4ef8d4b1066ff942dc4c49",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/static/media/wordpress.6ded14c8.png"
   },
   {
-    "revision": "ae28941dc621b5a3955b363ec734461a",
+    "revision": "a6484ee18d99a521be3b411f729acc35",
     "url": "/index.html"
   }
 ];
