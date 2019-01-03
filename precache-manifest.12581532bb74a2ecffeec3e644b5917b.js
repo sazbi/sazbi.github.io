@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/static/media/angular.2345a5c4.png"
   },
   {
-    "revision": "425edf702625c1e6e028",
-    "url": "/static/css/main.a8e23dde.chunk.css"
+    "revision": "2b91d196785b5f78870f",
+    "url": "/static/css/main.9c0c79df.chunk.css"
   },
   {
     "revision": "b27cd7e0bb9540a7792f",
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/static/media/vue.8b8800e8.png"
   },
   {
-    "revision": "425edf702625c1e6e028",
-    "url": "/static/js/main.425edf70.chunk.js"
+    "revision": "2b91d196785b5f78870f",
+    "url": "/static/js/main.2b91d196.chunk.js"
   },
   {
     "revision": "17d706e8ae4ef8d4b1066ff942dc4c49",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/static/media/wordpress.6ded14c8.png"
   },
   {
-    "revision": "7822074f00f5e9a1e30bee0221d8b29a",
+    "revision": "2c2e65ae4a04452e414ac05897b40291",
     "url": "/index.html"
   }
 ];
